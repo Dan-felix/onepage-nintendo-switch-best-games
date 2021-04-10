@@ -1,0 +1,57 @@
+body {
+    font: 20px arial, serif;
+}
+
+.navbar {
+    background-color: whitesmoke;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+
+}
+
+.padding{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+.cor1 {
+    background-color: #C0392B;
+}
+
+.cor2 {
+    background-color: #2E86C1;
+}
+
+.cor3 {
+    background-color: whitesmoke;
+}
+
+.cor4 {
+    background-color: black;
+}
+
+.cor5 {
+    background-color: #D5D8DC;
+}
+
+.icon-nav {
+    padding:2px;
+    margin:0px;
+}
+
+.border {
+    border-radius: 10px;
+}
+
+.footer {
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+
